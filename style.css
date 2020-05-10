@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#main {
+    background-color: lightgrey;
+    margin: 40px 10px;
+    max-width: 100%;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+#title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 60px 0 30px 0;
+    font-family: 'Merriweather', serif;
+}
+
+#title-brief {
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: .2em;
+    word-spacing: .2em;
+}
+  
+#img-div {
+    padding: 60px 100px; 
+  }
+  
+#image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 30px;
+  }
+
+#img-caption {
+    margin-top: 15px;
+    text-align: center;
+    font-size: .9em;
+    /* letter-spacing: .1em; */
+}
+
+#tribute-info {
+    padding: 0 20%;
+}
+
+#tribute-title {
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 15px;;
+}
+
+#tribute-list li {
+    margin-bottom: 20px;
+}
+
+#quote {
+    padding: 35px 0 0 30px;
+    font-size: .95em;
+    font-style: italic;
+    font-weight: 200;
+}
+
+#writer-info {
+    font-size: .75em;
+    letter-spacing: .05em;
+    font-style: italic;
+    font-weight: 200;
+    padding: 0 0 0 39px;
+}
+
+#link {
+    padding: 30px 0;
+    text-align: center;
+}
